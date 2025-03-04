@@ -65,7 +65,7 @@ This project is a **Sales Management System** built using **PHP, MySQL, HTML, CS
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/sales-management.git
+   git clone https://github.com/your-repo/Cashier.git
    ```
 
 2. **Import Database:**
