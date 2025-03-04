@@ -34,6 +34,13 @@ This project is a **Sales Management System** built using **PHP, MySQL, HTML, CS
 ---
 
 ## ⚙️ Features
+✅ AJAX Integration
+
+Real-time product search without refreshing the page.
+
+Dynamically updates the cart when adding/removing products.
+
+Ensures smooth user experience by asynchronously fetching data.
 
 ✅ **Product Management**
 
